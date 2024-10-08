@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    println("Hello, Ini Program Pertama Sya Di Kotlin!")
+    println("Hello, Ini Program Pertama Saya Di Kotlin!")
     //Contoh Komentar satu baris
     /*
     Contoh komentar multi baris
